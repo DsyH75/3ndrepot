@@ -1,4 +1,4 @@
-name: 7codes.yml
+name: 7th.yml
 on:
   workflow_dispatch:
 
